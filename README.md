@@ -1,2 +1,2 @@
-# datapack-mineATM
-ATM in minecraft
+# ATM for minecraft
+**ATMをminecraftでも使う**
